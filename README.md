@@ -35,7 +35,3 @@ The platform aggressively prices risk based on **Loan Term** and **Purpose**.
 Having identified the key drivers of risk, the next phase of the project involves building a **Machine Learning Classifier** to predict the likelihood of loan default at the point of application.
 
 ---
-
-## 📂 Repository Structure
-* `Part_1_Risk_Factors_Discovery.ipynb`: Full EDA, data cleaning, and visualization.
-* `README.md`: Business summary and executive findings.
