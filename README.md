@@ -26,4 +26,4 @@ The final **Weighted Random Forest** model achieved a **Recall of 68.2%**. This 
 ---
 ### 🔗 Live Project
 You can view the full interactive notebooks and the 1.2M row dataset on my Kaggle profile:
-[View on Kaggle](https://www.kaggle.com/your-username-here)
+[View on Kaggle](https://www.kaggle.com/vineethtangedudona)
